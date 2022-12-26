@@ -39,8 +39,8 @@ jobs:
         id: pages
         uses: actions/configure-pages@v1
 
-      - name: Setup Rub
-        uses: ruby/setup-ruby
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.0' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
