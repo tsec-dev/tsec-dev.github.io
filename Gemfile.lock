@@ -101,7 +101,7 @@ GEM
     yell (2.2.2)
 
 PLATFORMS
-bundle lock --add-platform x86_64-linux
+  x64-mingw-ucrt
 
 DEPENDENCIES
   html-proofer (~> 3.18)
