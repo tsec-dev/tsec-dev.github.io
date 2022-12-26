@@ -80,7 +80,7 @@ theme_mode:   dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: ./assets/AI.png
+avatar: 'https://raw.githubusercontent.com/tsec-dev/tsec-dev.github.io/main/assets/AI.PNG'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
